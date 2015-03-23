@@ -9,6 +9,7 @@ set ignorecase
 set smarttab
 set nowrap
 set ruler
+set mouse=a
 set t_Co=256
 
 noremap <leader>x :q<cr>
