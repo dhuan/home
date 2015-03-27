@@ -7,6 +7,10 @@ set hlsearch
 set incsearch
 set ignorecase
 set smarttab
+set expandtab
+set shiftwidth=4
+set tabstop=4
+set softtabstop=4
 set nowrap
 set ruler
 set mouse=a
