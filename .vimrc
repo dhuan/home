@@ -23,6 +23,9 @@ noremap <leader>t :tabnew<cr>
 noremap <F9> :tabp<cr>
 noremap <F10> :tabn<cr>
 
+noremap <leader>v Ivar_dump(<esc>A);<esc>
+noremap <leader>c Iconsole.log(<esc>A);<esc>
+
 noremap <c-n> :NERDTreeTabsToggle<cr>
 
 let g:NERDTreeDirArrows=0
