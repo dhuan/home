@@ -25,6 +25,8 @@ noremap <F10> :tabn<cr>
 
 noremap <leader>v Ivar_dump(<esc>A);<esc>
 noremap <leader>c Iconsole.log(<esc>A);<esc>
+noremap <leader>' xi'<esc>pa'<esc>
+noremap <leader>" xi"<esc>pa"<esc>
 
 noremap <c-n> :NERDTreeTabsToggle<cr>
 
