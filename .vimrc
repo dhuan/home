@@ -22,7 +22,6 @@ noremap <leader>s :w<cr>
 noremap <leader>t :tabnew<cr>
 noremap <F9> :tabp<cr>
 noremap <F10> :tabn<cr>
-noremap <tab> <c-w>w
 
 noremap <leader>v Ivar_dump(<esc>A);<esc>
 noremap <leader>c Iconsole.log(<esc>A);<esc>
